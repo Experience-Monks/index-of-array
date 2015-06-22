@@ -1,0 +1,43 @@
+{
+  "name": "index-of-array",
+  "version": "1.0.0",
+  "description": "index of an array element within a 2D array",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "array-equal": "^1.0.0"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "index",
+    "of",
+    "indexof",
+    "idx",
+    "array",
+    "point",
+    "vector",
+    "compare",
+    "sub",
+    "deep",
+    "child"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/index-of-array.git"
+  },
+  "homepage": "https://github.com/Jam3/index-of-array",
+  "bugs": {
+    "url": "https://github.com/Jam3/index-of-array/issues"
+  }
+}
